@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DTE version="1.0">
+  <Envelope>
+    <Item priority="6" actionType="Create">
+      <itemCode />
+      <description />
+      <extraDescription />
+      <typeCode />
+      <classCode />
+      <stockingUOM />
+      <lotControlledInd />
+      <actualMaterialUpdateCode />
+      <taxCode />
+      <groupSalesAnalysisRef1 />
+      <groupSalesAnalysisRef2 />
+      <groupSalesAnalysisRef3 />
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5 />
+      <masterScheduledInd />
+      <leadTimeDays />
+      <firstDemandCode />
+      <secondDemandCode />
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy />
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode />
+      <purchasingUnitCode />
+      <sellingUOM />
+      <groupTechnologyCode />
+      <bracketGroupCode />
+      <primaryVendorCode />
+      <secondaryVendorCode />
+      <countryOfOriginCode />
+      <maxInventoryQty />
+      <horizonDays />
+      <requirementsCode />
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef />
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM />
+      <dropShipAllowedInd />
+      <controlDate5LeadTime />
+      <unitsPerPallet />
+      <netNetWeightPerUnit />
+      <weightPerUnit />
+      <weightUOM />
+      <length />
+      <lengthUOM />
+      <width />
+      <widthUOM />
+      <height />
+      <heightUOM />
+      <drawingOrFormulaCode />
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP01DB4200S</itemCode>
+      <description>CABEZAL - DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP04DB4200S</itemCode>
+      <description>ENSAMBLAJE FIJACIÓN DEL MANGO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP10DB4200S</itemCode>
+      <description>ANILLO ENGANCHE DEL ARNES - DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP13DB4200S</itemCode>
+      <description>CONJUNTO DE CONEXIÓN AL MOTOR - DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP24DB4200S</itemCode>
+      <description>TUBO DE ALUMINIO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP25DB4200S</itemCode>
+      <description>FUNDA PROTECTORA- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP27DB4200S</itemCode>
+      <description>EJE DE TRANSMISIÓN- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP28DB4200S</itemCode>
+      <description>EMPUÑADURA DERECHA, ACELERADOR- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP29DB4200S</itemCode>
+      <description>EMPUÑADURA IZQUIERDA- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP30DB4200S</itemCode>
+      <description>PROTECTOR INFERIOR FIJO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP31DB4200S</itemCode>
+      <description>PROTECTOR INFERIOR DESMONTABLE - DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP34DB4200S</itemCode>
+      <description>ARNES PROFESIONAL- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP35DB4200S</itemCode>
+      <description>PERNO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP37DB4200S</itemCode>
+      <description>TAMBOR DE EMBRAGUE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP44DB4200S</itemCode>
+      <description>VOLANTE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP52DB4200S</itemCode>
+      <description>ÁRBOL DE LEVAS- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP57DB4200S</itemCode>
+      <description>ARRANQUE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP67DB4200S</itemCode>
+      <description>SILENCIADOR- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP72DB4200S</itemCode>
+      <description>CONJUNTO PISTONES- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP78DB4200S</itemCode>
+      <description>ANILLO PISTÓN- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP79DB4200S</itemCode>
+      <description>JUNTA CILINDRO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP80DB4200S</itemCode>
+      <description>CILINDRO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP81DB4200S</itemCode>
+      <description>BUJÍA- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP83DB4200S</itemCode>
+      <description>TAPA DE CILINDRO- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP85DB4200S</itemCode>
+      <description>TAPA SUPERIOR- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP89DB4200S</itemCode>
+      <description>TUBO DE ADMISIÓN- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP92DB4200S</itemCode>
+      <description>CARBURADOR- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP93DB4200S</itemCode>
+      <description>FILTRO DE AIRE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP96DB4200S</itemCode>
+      <description>TAPA DEL FILTRO DE AIRE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP100DB4200S</itemCode>
+      <description>DEPÓSITO DE COMBUSTIBLE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+    <Item priority="6" actionType="Create">
+      <itemCode>SP101DB4200S</itemCode>
+      <description>BASTIDOR DEPÓSITO DE COMBUSTIBLE- DB4200S</description>
+      <extraDescription />
+      <typeCode>C</typeCode>
+      <classCode>PT</classCode>
+      <stockingUOM>EA</stockingUOM>
+      <lotControlledInd>1.0</lotControlledInd>
+      <actualMaterialUpdateCode>90.0</actualMaterialUpdateCode>
+      <taxCode>IVAGE</taxCode>
+      <groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+      <groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+      <groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+      <groupSalesAnalysisRef4 />
+      <groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+      <masterScheduledInd>N</masterScheduledInd>
+      <leadTimeDays>90.0</leadTimeDays>
+      <firstDemandCode>2.0</firstDemandCode>
+      <secondDemandCode>2.0</secondDemandCode>
+      <minBalanceQty />
+      <MedidaLote />
+      <incrementalOrderQty />
+      <orderPolicy>J</orderPolicy>
+      <controlDate2LeadTime />
+      <controlDate3LeadTime />
+      <controlDate4LeadTime />
+      <abcInventoryCode>N</abcInventoryCode>
+      <purchasingUnitCode>UN</purchasingUnitCode>
+      <sellingUOM>UN</sellingUOM>
+      <groupTechnologyCode>BE</groupTechnologyCode>
+      <bracketGroupCode>A3</bracketGroupCode>
+      <primaryVendorCode>20479.0</primaryVendorCode>
+      <secondaryVendorCode />
+      <countryOfOriginCode>CHN</countryOfOriginCode>
+      <maxInventoryQty />
+      <horizonDays>30.0</horizonDays>
+      <requirementsCode>I</requirementsCode>
+      <dailyLeadTimeRate />
+      <targetAnnualQty />
+      <minBalanceHorizonDays />
+      <DiasExistencia />
+      <secondaryGroupRef>NEW</secondaryGroupRef>
+      <packagingType />
+      <catalogNumberCode />
+      <pricingUOM>UN</pricingUOM>
+      <dropShipAllowedInd>1.0</dropShipAllowedInd>
+      <controlDate5LeadTime />
+      <unitsPerPallet>1.0</unitsPerPallet>
+      <netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+      <weightPerUnit>0.1</weightPerUnit>
+      <weightUOM>KG</weightUOM>
+      <length>0.1</length>
+      <lengthUOM>MT</lengthUOM>
+      <width>0.1</width>
+      <widthUOM>MT</widthUOM>
+      <height>0.1</height>
+      <heightUOM>MT</heightUOM>
+      <drawingOrFormulaCode>ETC-REPDB4200-S-REV 0</drawingOrFormulaCode>
+    </Item>
+  </Envelope>
+</DTE>

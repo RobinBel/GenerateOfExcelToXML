@@ -1,0 +1,25 @@
+
+}
+java:S1488ƒ"aImmediately return this expression instead of assigning it to the temporary variable "xmlString".(ˆ“‰ëøÿÿÿÿ
+e
+java:S2095\"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(Þ«ð©úÿÿÿÿ
+c
+java:S2095Y"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‹€ÙÇ
+k
+java:S3008!"URename this field "PATH_EXCEL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Ò«Ì
+i
+java:S3008""SRename this field "PATH_CSV" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âþæ©
+V	java:S125'"<This block of commented-out lines of code should be removed.(ºêüúÿÿÿÿ
+9
+java:S1659:"#Declare "valor" on a separate line.(‰îß¨
+@	java:S106I"+Replace this use of System.out by a logger.(èœ»Ý
+]
+java:S1659`"BDeclare "valor" and all following declarations on a separate line.(ÕÉŽ‘ýÿÿÿÿ
+D
+java:S1481`")Remove this unused "data" local variable.(ÕÉŽ‘ýÿÿÿÿ
+F	java:S106×"+Replace this use of System.out by a logger.(­ƒûþÿÿÿÿ
+F	java:S106é"+Replace this use of System.out by a logger.(­ƒûþÿÿÿÿ
+G
+java:S1068#",Remove this unused "PATH_XML" private field.(ÁÒ®îüÿÿÿÿ
+F
+java:S1068("+Remove this unused "builder" private field.(Ž·ÐŸÿÿÿÿÿ

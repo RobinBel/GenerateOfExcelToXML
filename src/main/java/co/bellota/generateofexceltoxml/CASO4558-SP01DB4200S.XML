@@ -1,0 +1,62 @@
+<Envelope>
+		  <Item priority='6' actionType='Create'>
+<itemCode>SP01DB4200S</itemCode>
+<description>CABEZAL - DB4200S</description>
+<extraDescription>CABEZAL - DB4200S</extraDescription>
+<typeCode>C</typeCode>
+<classCode>PT</classCode>
+<stockingUOM>EA</stockingUOM>
+<lotControlledInd>1</lotControlledInd>
+<actualMaterialUpdateCode>25</actualMaterialUpdateCode>
+<taxCode>IVAGE</taxCode>
+<groupSalesAnalysisRef1>COME</groupSalesAnalysisRef1>
+<groupSalesAnalysisRef2>NIX</groupSalesAnalysisRef2>
+<groupSalesAnalysisRef3>US019</groupSalesAnalysisRef3>
+<groupSalesAnalysisRef4> </groupSalesAnalysisRef4>
+<groupSalesAnalysisRef5>POWT</groupSalesAnalysisRef5>
+<masterScheduledInd>N</masterScheduledInd>
+<leadTimeDays></leadTimeDays>
+<leadTimeDays></leadTimeDays>
+<firstDemandCode></firstDemandCode>
+<secondDemandCode></secondDemandCode>
+<minBalanceQty>1</minBalanceQty>
+<MedidaLote>1</MedidaLote>
+<incrementalOrderQty> </incrementalOrderQty>
+<orderPolicy></orderPolicy>
+<controlDate2LeadTime> </controlDate2LeadTime>
+<controlDate3LeadTime> </controlDate3LeadTime>
+<controlDate4LeadTime> </controlDate4LeadTime>
+<abcInventoryCode></abcInventoryCode>
+<purchasingUnitCode>UN</purchasingUnitCode>
+<sellingUOM>UN</sellingUOM>
+<groupTechnologyCode></groupTechnologyCode>
+<bracketGroupCode>A3</bracketGroupCode>
+<primaryVendorCode>20471</primaryVendorCode>
+<secondaryVendorCode></secondaryVendorCode>
+<countryOfOriginCode>CHN</countryOfOriginCode>
+<maxInventoryQty>2</maxInventoryQty>
+<horizonDays>30</horizonDays>
+<requirementsCode>I</requirementsCode>
+<dailyLeadTimeRate></dailyLeadTimeRate>
+<targetAnnualQty> </targetAnnualQty>
+<minBalanceHorizonDays></minBalanceHorizonDays>
+<DiasExistencia> </DiasExistencia>
+<secondaryGroupRef>NEW</secondaryGroupRef>
+<packagingType> </packagingType>
+<catalogNumberCode></catalogNumberCode>
+<pricingUOM>UN</pricingUOM>
+<dropShipAllowedInd>1</dropShipAllowedInd>
+<controlDate5LeadTime> </controlDate5LeadTime>
+<unitsPerPallet>1</unitsPerPallet>
+<netNetWeightPerUnit>0.1</netNetWeightPerUnit>
+<weightPerUnit>0.1</weightPerUnit>
+<weightUOM>KG</weightUOM>
+<length>0.1</length>
+<lengthUOM>MT</lengthUOM>
+<width>0.1</width>
+<widthUOM>MT</widthUOM>
+<height>0.1</height>
+<heightUOM>MT</heightUOM>
+<drawingOrFormulaCode></drawingOrFormulaCode>
+   </Item>
+</Envelope>
